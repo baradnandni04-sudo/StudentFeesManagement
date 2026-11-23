@@ -1,0 +1,1 @@
+<section class="empty-state"><div class="empty-icon">?</div><h1 class="h3">We couldn’t find that page</h1><p class="text-secondary">The link may be incorrect or no longer available.</p><a class="btn btn-primary" href="index.php">Return home</a></section>
